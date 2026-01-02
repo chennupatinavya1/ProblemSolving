@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0066-plus-one) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
 | ------- |
