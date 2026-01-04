@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1390-four-divisors) |
 ## Math
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 ## Dynamic Programming
 |  |
 | ------- |
