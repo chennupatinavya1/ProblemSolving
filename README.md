@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0443-string-compression](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
