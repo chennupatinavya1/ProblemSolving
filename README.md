@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0066-plus-one) |
+| [0209-minimum-size-subarray-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0904-fruit-into-baskets) |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
