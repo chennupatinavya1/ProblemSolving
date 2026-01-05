@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1390-four-divisors) |
+| [1975-maximum-matrix-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1975-maximum-matrix-sum) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0011-container-with-most-water) |
+| [1975-maximum-matrix-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1975-maximum-matrix-sum) |
+## Matrix
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
