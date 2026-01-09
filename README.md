@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0066-plus-one) |
+| [0200-number-of-islands](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0904-fruit-into-baskets) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0200-number-of-islands) |
 | [1975-maximum-matrix-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
@@ -71,15 +73,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0200-number-of-islands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0200-number-of-islands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
