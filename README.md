@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0695-max-area-of-island) |
 | [0904-fruit-into-baskets](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1390-four-divisors) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0695-max-area-of-island) |
 | [1975-maximum-matrix-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
@@ -74,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -90,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
