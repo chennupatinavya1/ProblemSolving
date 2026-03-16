@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0443-string-compression) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -102,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
