@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0443-string-compression) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0066-plus-one) |
 | [0200-number-of-islands](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
