@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0242-valid-anagram) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
