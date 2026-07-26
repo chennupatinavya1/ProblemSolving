@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0695-max-area-of-island) |
 | [0904-fruit-into-baskets](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0904-fruit-into-baskets) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1390-four-divisors) |
 ## Sliding Window
 |  |
@@ -112,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
