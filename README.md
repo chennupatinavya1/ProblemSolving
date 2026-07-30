@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0443-string-compression) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1390-four-divisors) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [1975-maximum-matrix-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1975-maximum-matrix-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
