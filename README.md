@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0695-max-area-of-island) |
+| [0877-stone-game](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1390-four-divisors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chennupatinavya1/ProblemSolving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0877-stone-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Binary Search
 |  |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
