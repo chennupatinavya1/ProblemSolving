@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3731-find-missing-elements](https://github.com/chennupatinavya1/ProblemSolving/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1975-maximum-matrix-sum) |
+| [3731-find-missing-elements](https://github.com/chennupatinavya1/ProblemSolving/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chennupatinavya1/ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/chennupatinavya1/ProblemSolving/tree/master/1200-minimum-absolute-difference) |
+| [3731-find-missing-elements](https://github.com/chennupatinavya1/ProblemSolving/tree/master/3731-find-missing-elements) |
 ## Game Theory
 |  |
 | ------- |
